@@ -69,3 +69,10 @@ print("==================================================================")
 ### OUTPUT
 
 <img width="441" alt="screenshot 181" src="https://user-images.githubusercontent.com/115542704/202617912-3db0b820-e688-4218-a57e-b3f941e276f7.png">
+
+### Flowchart
+
+<img width="321" alt="Flowchart" src="https://user-images.githubusercontent.com/115542704/202643711-916de85c-f32f-46dd-829b-a6b511ac0e84.png">
+
+### =======SEKIAN TERIMAKASIH=======
+
