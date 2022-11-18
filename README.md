@@ -66,3 +66,6 @@ for nilai in data:
 print("==================================================================")
 ```
 
+### OUTPUT
+
+<img width="441" alt="screenshot 181" src="https://user-images.githubusercontent.com/115542704/202617912-3db0b820-e688-4218-a57e-b3f941e276f7.png">
